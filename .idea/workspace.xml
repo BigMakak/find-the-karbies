@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d7bf718-9b01-4c72-8b4a-88ad8da5114f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find-the-karbies" afterPath="$PROJECT_DIR$/find-the-karbies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/LevelFactory.java" afterPath="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/LevelFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java" afterPath="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Level2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Level2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="313">
+              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Level1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Level1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="110">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,8 +101,8 @@
       <file leaf-file-name="Level.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="221">
+              <caret line="13" column="66" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,16 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-11">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Position.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Position.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -167,13 +158,14 @@
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Position.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Start.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Tester.java" />
-        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Start.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level3.java" />
-        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java" />
-        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level2.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Clickable.java" />
         <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/LevelFactory.java" />
+        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java" />
+        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level.java" />
+        <option value="$PROJECT_DIR$/find-the-karbies/src/Level2.java" />
+        <option value="$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level2.java" />
       </list>
     </option>
   </component>
@@ -259,6 +251,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FindTheKarbies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="find-the-karbies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -273,6 +279,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.academiadecodigo.bootcamp.Levels" />
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/find-the-karbies/resources" />
     </key>
@@ -734,15 +744,16 @@
       <option name="presentableId" value="Default" />
       <updated>1497610102009</updated>
       <workItem from="1497610105150" duration="14884000" />
-      <workItem from="1497698458001" duration="10999000" />
+      <workItem from="1497698458001" duration="11505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25883000" />
+    <option name="totallyTimeSpent" value="26389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="339" y="77" width="1411" height="915" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -761,7 +772,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22114216" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22114216" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943755" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2673147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -918,11 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find-the-karbies/resources/waldolevel2.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1002,10 +1008,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level2.java">
+    <entry file="file://$PROJECT_DIR$/find-the-karbies/resources/waldolevel2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="110">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1014,18 +1025,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="221">
+          <caret line="13" column="66" lean-forward="false" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level1.java">
+    <entry file="file://$PROJECT_DIR$/find-the-karbies/src/org/academiadecodigo/bootcamp/Levels/Level2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="313">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
